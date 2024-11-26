@@ -6,7 +6,7 @@ using namespace std;
 #include "ev.h"			// You must build this.
 
 int main() {
-  Vehicle *transportationThing = new EV;
+  Vehicle *transportationThing = new IC;
   Vehicle *model3 = new EV;
   Vehicle *mustang = new IC;
 
